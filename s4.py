@@ -4,10 +4,10 @@ import datetime
 import os
 # S4 OFFICIAL GRP. JOIN TO MORE UPDATES 
 # Insert your Telegram bot token here
-bot = telebot.TeleBot('7604733966:AAEq6NPyHcVaeEOB2jcXKjMMSLMPe0WjaTM')
+bot = telebot.TeleBot('7571975377:AAFp5idCKX8fwRd3Kt98a37lDZkZ-6H3lrI')
 # DEVELOPER --> @S4_LUCHI
 # Admin user IDs
-admin_id = ["","6769245930"]
+admin_id = ["","6494426295"]
 
 # File to store allowed user IDs and their subscription expiry
 USER_FILE = "users.txt"
